@@ -7,5 +7,4 @@ public class Hello {
         System.out.println((2*3-(6-4)));
         System.out.println(1-5+6/54);
     }
-    
 } 
